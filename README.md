@@ -10,4 +10,4 @@ and colour.
 
 i tried to really test myself on this but i did use a reference list when needed but found it was for things like flex.wrap instead of flex-wrap and border.box 
 instead of border-box. i am currently learning C# along side and feel the Console.WriteLine and Convert.ToDouble commands for example may have played a part in
-those mistakes. 
+those mistakes. https://www.w3schools.com/css/default.asp
